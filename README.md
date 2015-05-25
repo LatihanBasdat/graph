@@ -1,4 +1,4 @@
-# graphDB
+# GraphingNews
 Source code pembuatan graph database sederhana menggunakan bahasa pemrograman java
 
 fitur :

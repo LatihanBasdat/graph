@@ -8,8 +8,6 @@ package graph.database;
  *
  * @author Isjhar-pc
  */
-public class Counter {
-    public static long numberVertex;
-    public static long numberEdge;
-    public static long numberAnswer;
+public enum FileType {
+    PDF, HTML, TXT, DOC
 }
